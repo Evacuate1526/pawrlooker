@@ -30,7 +30,7 @@ const getDelegatorsPage = async ({ page = 1, account }) =>
         const data = {};
         let account = "";
         list.forEach(value => {
-          if (value.startsWith("nano_")) {
+          if (value.startsWith("paw_")) {
             account = value;
           } else {
             data[account] = parseFloat(value);
