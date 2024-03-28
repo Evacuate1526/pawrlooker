@@ -57,8 +57,8 @@ const App: React.FC = () => {
     >
       <Helmet>
         <html lang={i18next.language} />
-        <title>NanoLooker {t("common.blockExplorer")}</title>
-        <meta name="description" content="Block explorer of the Nano cryptocurrency" />
+        <title>PawrLooker {t("common.blockExplorer")}</title>
+        <meta name="description" content="Block explorer of the PawR cryptocurrency" />
         <meta name="theme-color" content={themeContext === Theme.DARK ? "#131313" : "#eff2f5"} />
       </Helmet>
       <Layout

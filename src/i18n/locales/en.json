@@ -268,7 +268,7 @@
       "noDelegatorsFound": "No delegators found"
     },
     "faucets": {
-      "description": "Faucets allows you to claim small amounts of NANO for free. These faucets are for you to experience how easy it is to send and receive NANO across the world instantly on a decentralized network."
+      "description": "Faucets allows you to claim small amounts of PAWR for free. These faucets are for you to experience how easy it is to send and receive NANO across the world instantly on a decentralized network."
     },
     "developerFund": {
       "description": "As of 11/25/19 the developer fund has been split up into {{totalAccounts}} accounts following a review of internal security policy and representative voting weights.",

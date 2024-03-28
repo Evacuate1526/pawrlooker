@@ -63,7 +63,7 @@ const LargeTransactions: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>Nano {t("menu.largeTransactions")}</title>
+        <title>PAWR {t("menu.largeTransactions")}</title>
       </Helmet>
       <Title level={3}>{t("menu.largeTransactions")}</Title>
 

@@ -96,7 +96,7 @@ const DeveloperFund: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>Nano {t("menu.developerFund")}</title>
+        <title>PAWR {t("menu.developerFund")}</title>
       </Helmet>
       <Row gutter={[12, 0]}>
         <Col xs={24} lg={12}>

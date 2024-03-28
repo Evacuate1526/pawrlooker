@@ -86,7 +86,7 @@ const Representatives = () => {
   return (
     <>
       <Helmet>
-        <title>Nano {t("menu.representatives")}</title>
+        <title>PAWR {t("menu.representatives")}</title>
       </Helmet>
       <Row gutter={[12, 0]}>
         <Col xs={24} md={12}>
